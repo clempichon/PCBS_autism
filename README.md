@@ -6,7 +6,7 @@
 
 These datasets are the starting for this project of machine learning, aiming at creating an algorithm that detect autism from the responses to those 10 questions. 
 
-I here present my strategy to build this algorithm. The code is disponible in the Jupyter Notebook "project.iynb". The data set are the three arff files available in the file. 
+I here present my strategy to build this algorithm. The code is available in the Jupyter Notebook "project.iynb". The data set are the three arff files available in the file. 
 
 ## 1. Importing the recquired modules
 
